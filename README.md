@@ -14,12 +14,12 @@
 
 Для корректной работы скрипта вам потребуется:
 1. Проверить путь до .exe файла Google Chrome в строке 8:
-``` Batch
+``` Batchfile
 :: chrome_exe - БЕЗ КАВЫЧЕК
 set chrome_exe=C:\Program Files\Google\Chrome\Application\chrome.exe
 ```
 2. Заменить путь до папки, в которой хранятся профиля от Google Chrome в строке 10: 
-```
+```Batchfile
 :: user_data - С КАВЫЧКАМИ
 set user_data="C:\Users\$username$\AppData\Local\Google\Chrome\User Data"
 ```
