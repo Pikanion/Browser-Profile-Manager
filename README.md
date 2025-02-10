@@ -1,6 +1,6 @@
-**[RU](#Tittle_RU) / [EN](#Tittle_EN)**
+### **[RU](#Tittle_RU) / [EN](#Tittle_EN)**
 
-Contact me: [Telegram](t.me/pikanion) - if you have ideas or suggestions
+###### Contact me: [Telegram](t.me/pikanion) - if you have ideas or suggestions
 ---
 
 # <a id="Tittle_RU">Chrome-Profile-Manager (RU)</a>
