@@ -1,6 +1,7 @@
 # Chrome-Profile-Manager
-[RU / EN]
-Description
+*RU / EN*
+
+## Description
 
 
-Roadmap
+## Roadmap
