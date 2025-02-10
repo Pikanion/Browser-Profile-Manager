@@ -12,6 +12,19 @@
    - Запуск диапазона(-ов) профилей (К примеру, 1-20 или 1-5, 10-15, 20-30).
 - Запуск профиля с новыми вкладками (ссылки задаются пользователем).   
 
+Для корректной работы скрипта вам потребуется:
+1. Проверить путь до .exe файла Google Chrome в строке 8:
+``` Batch
+:: chrome_exe - БЕЗ КАВЫЧЕК
+set chrome_exe=C:\Program Files\Google\Chrome\Application\chrome.exe
+```
+2. Заменить путь до папки, в которой хранятся профиля от Google Chrome в строке 10: 
+```
+:: user_data - С КАВЫЧКАМИ
+set user_data="C:\Users\$username$\AppData\Local\Google\Chrome\User Data"
+```
+
+
 ## Roadmap
 - [x] Запуск ссылок
 - [ ] Функция создания новых профилей
