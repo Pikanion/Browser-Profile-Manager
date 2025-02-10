@@ -1,5 +1,5 @@
-# Chrome-Profile-Manager (RU)
-**RU / EN**
+# <a id=Title_RU>Chrome-Profile-Manager (RU)</a>
+**RU / [EN](#Title_EN)**
 ## Description
 Скрипт для работы с гугл профилями. 
 
@@ -19,7 +19,7 @@
 - [ ] Скачивание расширений на выбранные профиля
 - [ ] Поддержка английского языка
 
-# Chrome-Profile-Manager (EN)
+# <a id=Title_EN>Chrome-Profile-Manager (EN)</a>
 ## Description
 Script for working with Google profiles.
 
@@ -30,7 +30,7 @@ Current functionality:
     - Launching ranges of profiles (For example, 1-20 or 1-5, 10-15, 20-30).
 - Launching profiles with new tabs (links are provided by the user).
 
-##Roadmap
+## Roadmap
 - [x] Launching links
 - [ ] Function to create new profiles
 - [ ] Mass launch with specific: proxy, user-agent, and disabled WebRTC
