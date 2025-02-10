@@ -3,7 +3,7 @@
 
 # <a id="Tittle_RU">Chrome-Profile-Manager (RU)</a>
 ## Description
-Скрипт для работы с гугл профилями. 
+Скрипт для работы с гугл профилями для Windows. 
 
 Текущий функционал:
 - Просмотр количества профилей в Google Chrome.
@@ -36,7 +36,7 @@ set user_data="C:\Users\$username$\AppData\Local\Google\Chrome\User Data"
 
 # <a id="Tittle_EN">Chrome-Profile-Manager (EN)</a>
 ## Description
-Script for working with Google profiles.
+Script for working with Google profiles for Windows.
 
 Current functionality:
 - Viewing the number of profiles in Google Chrome.
