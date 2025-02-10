@@ -4,10 +4,10 @@ title Chrome Profiles Autostart
 setlocal enabledelayedexpansion
 
 :: Пути
-:: chrome_exe - БЕЗ КАВЫЧЕК!!!
+:: chrome_exe - БЕЗ КАВЫЧЕК
 set chrome_exe=C:\Program Files\Google\Chrome\Application\chrome.exe
-:: user_data - С КАВЫЧКАМИ!!!
-set user_data="C:\Users\schku\AppData\Local\Google\Chrome\User Data"
+:: user_data - С КАВЫЧКАМИ
+set user_data="C:\Users\$username$\AppData\Local\Google\Chrome\User Data"
 
 :: Проверка существования Chrome
 if not exist "%chrome_exe%" (
