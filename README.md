@@ -1,5 +1,5 @@
-# <a id=Title_RU>Chrome-Profile-Manager (RU)</a>
-**RU / [EN](#Title_EN)**
+# <a id="Tittle_RU">Chrome-Profile-Manager (RU)</a>
+**[RU](#Tittle_RU) / [EN](#Tittle_EN)**
 ## Description
 Скрипт для работы с гугл профилями. 
 
@@ -19,7 +19,7 @@
 - [ ] Скачивание расширений на выбранные профиля
 - [ ] Поддержка английского языка
 
-# <a id=Title_EN>Chrome-Profile-Manager (EN)</a>
+# <a id="Tittle_EN">Chrome-Profile-Manager (EN)</a>
 ## Description
 Script for working with Google profiles.
 
