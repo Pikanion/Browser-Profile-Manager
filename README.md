@@ -1,5 +1,5 @@
 # Chrome-Profile-Manager
-*RU / EN*
+**RU / EN**
 
 ## Description
 
