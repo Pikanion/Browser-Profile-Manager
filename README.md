@@ -1,4 +1,4 @@
-### **[RU](#Tittle_RU) / [EN](#Tittle_EN)**
+[//]: ### **[RU](#Tittle_RU) / [EN](#Tittle_EN)**
 ###### Contact me: **[Telegram](https://t.me/pikanion)** - if you have ideas or suggestions
 
 # <a id="Tittle_RU">Chrome-Profile-Manager (RU)</a>
@@ -33,24 +33,24 @@ set user_data="C:\Users\$username$\AppData\Local\Google\Chrome\User Data"
 - [ ] Создание шаблонов запуска профилей
 - [ ] Скачивание расширений на выбранные профиля
 - [ ] Поддержка английского языка
-
-# <a id="Tittle_EN">Chrome-Profile-Manager (EN)</a>
-## Description
-Script for working with Google profiles for Windows.
-
-Current functionality:
-- Viewing the number of profiles in Google Chrome.
-- Mass launching of profiles.
-    - Selective launch (For example, 1, 2, 3, 5).
-    - Launching ranges of profiles (For example, 1-20 or 1-5, 10-15, 20-30).
-- Launching profiles with new tabs (links are provided by the user).
-
-## Roadmap
-- [x] Launching links
-- [ ] Function to create new profiles
-- [ ] Mass launch with specific: proxy, user-agent, and disabled WebRTC
-- [ ] Viewing proxy and user-agent lists within the script
-- [ ] Creating profile launch templates
-- [ ] Downloading extensions to selected profiles
-- [ ] Support for the English language
+[//]: 
+[//]: # <a id="Tittle_EN">Chrome-Profile-Manager (EN)</a>
+[//]: ## Description
+[//]: Script for working with Google profiles for Windows.
+[//]: 
+[//]: Current functionality:
+[//]: - Viewing the number of profiles in Google Chrome.
+[//]: - Mass launching of profiles.
+[//]:     - Selective launch (For example, 1, 2, 3, 5).
+[//]:     - Launching ranges of profiles (For example, 1-20 or 1-5, 10-15, 20-30).
+[//]: - Launching profiles with new tabs (links are provided by the user).
+[//]: 
+[//]: ## Roadmap
+[//]: - [x] Launching links
+[//]: - [ ] Function to create new profiles
+[//]: - [ ] Mass launch with specific: proxy, user-agent, and disabled WebRTC
+[//]: - [ ] Viewing proxy and user-agent lists within the script
+[//]: - [ ] Creating profile launch templates
+[//]: - [ ] Downloading extensions to selected profiles
+[//]: - [ ] Support for the English language
 
