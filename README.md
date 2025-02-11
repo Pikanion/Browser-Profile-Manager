@@ -24,7 +24,7 @@ set chrome_exe="C:\Program Files\Google\Chrome\Application\chrome.exe"
 ```Batchfile
 set user_data="C:\Users\$username$\AppData\Local\Google\Chrome\User Data"
 ```
-Чтобы изменить строки, нужно открыть .bat файл любым текстовым редактором.
+> Чтобы изменить строки, нужно открыть .bat файл любым текстовым редактором.
 
 ## Roadmap
 - [x] Запуск ссылок
